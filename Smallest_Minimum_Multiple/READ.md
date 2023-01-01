@@ -1,1 +1,0 @@
-# Smallest Minimum Multiple
