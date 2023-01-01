@@ -12,7 +12,7 @@ What is the smallest positive number that is evenly divisible by all of the numb
 ![Smallest Minimum Multiple](https://user-images.githubusercontent.com/91080406/210186180-ad49802a-1a1c-4869-9dbc-56cec4d1f160.png)
 
 
-The problem tries to find the smallest positive integer divisible by a and b, and I present two possible ways to solve it. The first is by means of its greatest common divisor, which synthesizes and speeds up the calculation. The second is by brute force, in which we check that each positive integer is divisible by a and b, which takes more time.
+The problem tries to find the smallest positive integer divisible by a and b, and I present two possible ways to solve it. The first is by means of its greatest common divisor, which synthesizes and speeds up the calculation. The second is by brute force, in which we check that each positive integer is divisible without remainder by a and b, which takes more time.
 
 ------------------------------------
 ## Result
