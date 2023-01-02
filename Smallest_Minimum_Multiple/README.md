@@ -1,6 +1,6 @@
 # Smallest Minimum Multiple
 
-## The statement of the problem
+## Statement of the problem
 
 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
 
