@@ -35,4 +35,9 @@ The last step is determine *a* where we know that is less than or equal to *b* w
 Finally there are some restrictions that we can put on the function, the sum of the sides whether they are even or odd positive integers add up to an even number. Reviewing the Pythagorean theorems we find the Pythagorean triples where the same behavior is shown, so we can disregard looking among the odd values of *p*.
 
 
+-------------------
+## Results
+
+The perimeter (p) below 1000 that maximizes the number of triangles is 840.
+The number of triangles withe optimal p is 9.
 
